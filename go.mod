@@ -1,5 +1,5 @@
-module RcloneTelegram
-require github.com/mssvpn/RcloneTelegram
+module github.com/mssvpn/RcloneTelegram
+
 require github.com/rclone/rclone v1.55.1
 
 
